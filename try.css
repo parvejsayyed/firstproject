@@ -1,0 +1,28 @@
+*{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url(../6.jpg);
+    height:150vh;
+    background-size: cover;
+    background-position:center;
+}
+.wrap{
+    width: 1000px;
+    margin: auto;
+    margin-top: 100px;
+}
+.card{
+   
+    transition: 0.4s;
+    width: 300px;
+    background: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    float: left;
+    margin: 10px;
+}
+.card:hover{
+    
+}
+.container{
+    padding: 2px 16px;
+}
